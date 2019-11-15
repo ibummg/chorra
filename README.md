@@ -1,4 +1,4 @@
-![Fallou a imaxe](/corazon.png)
+![Fallou a imaxe](/chimmy.png)
 
 # O meu primeiro repositorio
 ## Aprendendo Markdown
